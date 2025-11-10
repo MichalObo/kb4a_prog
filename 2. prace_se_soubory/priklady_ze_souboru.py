@@ -1,7 +1,7 @@
 import random
 
 
-cesta = "2. prace_se_soubory\data\priklady.txt"
+cesta = "kb4a_prog\2. prace_se_soubory\data\priklady.txt"
 
 
 def generuj_priklad(radek):
